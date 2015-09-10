@@ -1,0 +1,33 @@
+{
+  "name": "bl72ToLatLng",
+  "version": "0.0.0",
+  "description": "Conversion from Belgian Lambert 72 projection to WGS84 latitude/longitude.",
+  "keywords": [
+    "coordinates",
+    "conversion",
+    "latitude",
+    "longitude",
+    "lambert",
+    "belgian lambert 72",
+    "projection"
+  ],
+  "author": {
+    "name": "leny",
+    "email": "info@flatland.be",
+    "url": "http://leny.me"
+  },
+  "license": "MIT",
+  "repository": "leny/bl72ToLatLng",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "ava": "*"
+  }
+}
