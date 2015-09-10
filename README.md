@@ -7,13 +7,13 @@
 ## Install
 
 ```
-$ npm install --save bl72ToLatLng
+$ npm install --save bl72tolatlng
 ```
 
 ## Usage
 
 ```js
-var bl72ToLatLng = require( "bl72ToLatLng" );
+var bl72ToLatLng = require( "bl72tolatlng" );
 
 bl72ToLatLng( 235166, 148974 ); // returns { "latitude": 50.645173, "longitude": 5.572941 }
 ```
