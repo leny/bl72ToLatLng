@@ -1,6 +1,6 @@
 {
   "name": "bl72tolatlng",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Conversion from Belgian Lambert 72 projection to WGS84 latitude/longitude.",
   "keywords": [
     "coordinates",
