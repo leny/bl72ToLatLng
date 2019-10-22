@@ -1,4 +1,4 @@
-# bl72ToLatLng [![Build Status](https://travis-ci.org/leny/bl72ToLatLng.svg?branch=master)](https://travis-ci.org/leny/bl72ToLatLng)
+# bl72ToLatLng [![Build Status](https://travis-ci.org/leny/bl72ToLatLng.svg?branch=master)](https://travis-ci.org/leny/bl72ToLatLng) [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 
 > Conversion from Belgian Lambert 72 projection to WGS84 latitude/longitude.
 
